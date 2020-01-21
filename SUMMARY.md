@@ -2,4 +2,5 @@
 
 * [Initial page](README.md)
 * [Courses](courses.md)
+* [Flutter](flutter.md)
 
