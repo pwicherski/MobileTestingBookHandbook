@@ -6,4 +6,5 @@
 * [Accessbility](accessbility.md)
 * [Tools](tools.md)
 * [Useful Stats](useful-stats.md)
+* [Device labs](device-labs.md)
 
