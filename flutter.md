@@ -20,6 +20,8 @@
 
 * Intro to UI testing
   * [https://www.polidea.com/blog/its-flutter-time-introduction-to-ui-tests/](https://www.polidea.com/blog/its-flutter-time-introduction-to-ui-tests/)
+* Intro
+  * [https://blog.codemagic.io/flutter-ui-testing/](https://blog.codemagic.io/flutter-ui-testing/)
 * Flutter\_driver:
   * [https://flutter.dev/.../testing/integration/introduction](https://flutter.dev/docs/cookbook/testing/integration/introduction?fbclid=IwAR0r8fSzxNdPtyu8TbzslrzErvGhLbkwvfeqvHsBbXlMvXw-dbb3naeixXc)
 * Ozzie:
