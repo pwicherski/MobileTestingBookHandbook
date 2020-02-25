@@ -11,7 +11,10 @@
 * AWS Device Lab
   * [https://github.com/mmcc007/sylph](https://github.com/mmcc007/sylph)
 * Firebase TestLab
+
   * [https://github.com/flutter/plugin\_tools/pull/51](https://github.com/flutter/plugin_tools/pull/51)
+  * [https://github.com/flutter/plugins/pull/1866](https://github.com/flutter/plugins/pull/1866)
+  * [https://github.com/flutter/flutter/issues/11718](https://github.com/flutter/flutter/issues/11718)
 
 ## Inne
 
