@@ -11,4 +11,6 @@
   * [Network](performance/network.md)
 * [Tools](tools-1/README.md)
   * [Espresso](tools-1/espresso.md)
+* [PWA](pwa.md)
+* [AMP](amp.md)
 
