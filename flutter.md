@@ -11,6 +11,10 @@
 * [https://github.com/FirebaseExtended/flutterfire/issues/896](https://github.com/FirebaseExtended/flutterfire/issues/896)
 * [https://github.com/flutter/flutter/issues/36681](https://github.com/flutter/flutter/issues/36681)
 
+## Flutter With Github Actions:
+
+* [https://medium.com/better-programming/monitor-your-flutter-apps-health-end-to-end-with-github-actions-8a9fb1889c6a](https://medium.com/better-programming/monitor-your-flutter-apps-health-end-to-end-with-github-actions-8a9fb1889c6a)
+
 ## Device labs
 
 * AWS Device Lab
