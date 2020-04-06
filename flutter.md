@@ -13,6 +13,7 @@
 
 ## Flutter With Github Actions:
 
+* [https://medium.com/firebase-developers/github-actions-firebase-test-lab-4bc830685a99](https://medium.com/firebase-developers/github-actions-firebase-test-lab-4bc830685a99)
 * [https://medium.com/better-programming/monitor-your-flutter-apps-health-end-to-end-with-github-actions-8a9fb1889c6a](https://medium.com/better-programming/monitor-your-flutter-apps-health-end-to-end-with-github-actions-8a9fb1889c6a)
 
 ## Device labs
