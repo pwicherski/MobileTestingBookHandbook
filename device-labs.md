@@ -16,6 +16,7 @@
 * NTT Remote TestKit
 * Testsigma
 * Samsung Developers Lab
+* Huawei Digix Lab
 
 ## Mobile Automation:
 
@@ -34,6 +35,7 @@
 * Testsigma
 * Firebase Test Lab
 * Xamarin Test Cloud
+* Huawei Digix Lab
 
 ## Mobile & Desktop Web \(Manual/Automation\):
 
@@ -51,4 +53,3 @@
 * BrowserStack
 * Browserspot
 * LambdaTest
-
