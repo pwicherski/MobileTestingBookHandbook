@@ -13,4 +13,5 @@
   * [Espresso](tools-1/espresso.md)
 * [PWA](pwa.md)
 * [AMP](amp.md)
+* [Test Plan](test-plan.md)
 
