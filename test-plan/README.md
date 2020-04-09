@@ -32,11 +32,7 @@ We're supporting Android and iOS mobile operating systems.
 
 ## Plan
 
-_"Next steps"_ are non-essential parts for this release, but it would be nice to have if we will have enough time and resource to do them. We will focus on them in next phase.
-
 ### Manual tests
-
-We should focus on all user interface elements, hand washing animation in "Protect Yourself".
 
 #### Scope
 
