@@ -135,7 +135,7 @@ We can also use cloud device labs as a support in performing various test types.
 
 #### Coverage
 
-After performing tests fill Device Coverage Sheet, so we could estimate our Device/OS/Overlay coverage. 
+After performing tests fill Device Coverage Sheet, so we could estimate our Device/OS/Overlay coverage.
 
 #### Bug bash
 
@@ -147,7 +147,5 @@ Bug bash will have their own procedure which will be send to invited users.
 
 That's our main risk. We need to assume that they could use anything ranging from Samsung Galaxy S3 \(Android 4.3\) and iPhone 4s \(iOS 9.3.5\) to Samsung Galaxy Folder 2 \(3.8" screen\), Samsung Galaxy View SM-760 \(18.4" screen\) and Infinix Zero 5 Pro \(with Mediatek MT6757CD Helio P20 CPU\) ending with Xiaomi Redmi K30 Pro \(2020 release\).
 
-We must deal with multiple device types, OS versions, screen sizes, quality of display and many more. 
-
-
+We must deal with multiple device types, OS versions, screen sizes, quality of display and many more.
 
