@@ -15,4 +15,5 @@
 * [Test Plan](test-plan/README.md)
   * [vNext](test-plan/vnext.md)
 * [Sandboxes](sandboxes.md)
+* [Emulators and Simulators](emulators-and-simulators.md)
 
