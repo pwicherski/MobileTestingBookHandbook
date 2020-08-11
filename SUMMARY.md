@@ -16,4 +16,6 @@
   * [vNext](test-plan/vnext.md)
 * [Sandboxes](sandboxes.md)
 * [Emulators and Simulators](emulators-and-simulators.md)
+* [Tools](tools-1.md)
+* [SMS Phone services](sms-phone-services.md)
 
