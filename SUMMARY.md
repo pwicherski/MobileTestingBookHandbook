@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Flutter](flutter.md)
 * [Courses](courses.md)
 * [Accessbility](accessbility.md)
 * [Tools](tools/README.md)
@@ -12,6 +11,7 @@
   * [Network](performance/network.md)
 * [PWA](pwa.md)
 * [AMP](amp.md)
+* [Flutter](flutter.md)
 * [Sandboxes](sandboxes.md)
 * [Emulators and Simulators](emulators-and-simulators.md)
 * [Tools](tools-1.md)
