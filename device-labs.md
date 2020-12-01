@@ -17,6 +17,7 @@
 * Testsigma
 * Samsung Developers Lab
 * Huawei Digix Lab
+* HeadSpin Local
 
 ## Mobile Automation:
 
