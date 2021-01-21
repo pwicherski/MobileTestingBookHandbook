@@ -34,15 +34,14 @@
   * [https://medium.com/stuart-engineering/flutter-ui-testing-7f7df932edf6](https://medium.com/stuart-engineering/flutter-ui-testing-7f7df932edf6)
 * Ozzie
   * [https://github.com/bmw-tech/ozzie.flutter](https://github.com/bmw-tech/ozzie.flutter?fbclid=IwAR28xojXFt9tmz8Zur2V3OvRlErnLCeSK8RLtn6UTw0vCSYysasXgVAxXt8)
-* Można też zerknąć na Flutter Gherkin:
+* Flutter gherkin
   * [https://github.com/jonsamwell/flutter\_gherkin](https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Fjonsamwell%2Fflutter_gherkin%3Ffbclid%3DIwAR0S4vC-dh-lK-gf3-g7Vdbc9M3cVJN7MkwDz5JE4MumchmAKrclnxCERqM&h=AT0ZhxAZma64s6UlXwWI7ZlRvo2E5RUbBv6Luc_0IteYYRcImPLDGTXjdyaScXlWGeZ3jDgj6_9zLHrWc5LFiuizh-HcgHLuGjmGYprJZl7wgVg3UbAAu5EPmrniH8fw2Z5V)
 * Flutter driver course
   * [https://www.youtube.com/watch?v=9wNa48EiksM&list=PL6tu16kXT9PrzZbUTUscEYOHHTVEKPLha](https://www.youtube.com/watch?v=9wNa48EiksM&list=PL6tu16kXT9PrzZbUTUscEYOHHTVEKPLha)
   * [https://github.com/executeautomation/flutterdriver\_automation](https://github.com/executeautomation/flutterdriver_automation)
-
-## Konkretne
-
-* Mockowanie lokalne w kodzie
+* Automate your Testing on Devices with Flutter Integration Testing
+  * [https://www.youtube.com/watch?v=WPEsnJgW99M](https://www.youtube.com/watch?v=WPEsnJgW99M)
+* Mocking integration tests with flutter
   * [https://medium.com/stuart-engineering/mocking-integration-tests-with-flutter-af3b6ba846c7](https://medium.com/stuart-engineering/mocking-integration-tests-with-flutter-af3b6ba846c7)
 
 ## Development courses
