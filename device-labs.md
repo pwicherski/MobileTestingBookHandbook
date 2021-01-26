@@ -18,6 +18,7 @@
 * Samsung Developers Lab
 * Huawei Digix Lab
 * HeadSpin Local
+* SmartDust
 
 ## Mobile Automation:
 
