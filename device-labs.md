@@ -44,7 +44,6 @@
 * Bitbar
 * Sauce labs
 * Perfecto Mobile
-* NativeTap
 * Kobiton
 * Amazon AWS Device farm
 * Google FireBase
