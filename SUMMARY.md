@@ -4,6 +4,7 @@
 * [Courses](courses.md)
 * [Accessbility](accessbility.md)
 * [Tools](tools/README.md)
+  * [AirTest](tools/airtest.md)
   * [Espresso](tools/espresso.md)
 * [Useful Stats](useful-stats.md)
 * [Device labs](device-labs.md)
