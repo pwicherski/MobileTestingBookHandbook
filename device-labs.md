@@ -39,6 +39,7 @@
 * Xamarin Test Cloud
 * Huawei Digix Lab
 * AirLab 163
+* TestingWhiz
 
 ## Mobile & Desktop Web \(Manual/Automation\):
 
@@ -55,4 +56,5 @@
 * BrowserStack
 * Browserspot
 * LambdaTest
+* TestingWhiz
 
