@@ -19,6 +19,8 @@
 * Huawei Digix Lab
 * HeadSpin Local
 * SmartDust
+* AirLab 163
+* TestingWhiz
 
 ## Mobile Automation:
 
