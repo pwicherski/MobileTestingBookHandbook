@@ -21,6 +21,7 @@
 * SmartDust
 * AirLab 163
 * TestingWhiz
+* TestingBot
 
 ## Mobile Automation:
 
@@ -42,6 +43,7 @@
 * Huawei Digix Lab
 * AirLab 163
 * TestingWhiz
+* TestingBot
 
 ## Mobile & Desktop Web \(Manual/Automation\):
 
@@ -59,4 +61,4 @@
 * Browserspot
 * LambdaTest
 * TestingWhiz
-
+* TestingBot
