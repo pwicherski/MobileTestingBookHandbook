@@ -19,5 +19,4 @@
 * [Tools](tools-1.md)
 * [SMS Phone services](sms-phone-services.md)
 * [Books](books.md)
-* [MISC](useful-android-apps.md)
-
+* [Useful Android Apps](useful-android-apps.md)
