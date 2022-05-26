@@ -22,6 +22,7 @@
 * AirLab 163
 * TestingWhiz
 * TestingBot
+* LambdaTest
 
 ## Mobile Automation:
 
@@ -44,6 +45,7 @@
 * AirLab 163
 * TestingWhiz
 * TestingBot
+* LambdaTest
 
 ## Mobile & Desktop Web \(Manual/Automation\):
 
@@ -62,3 +64,4 @@
 * LambdaTest
 * TestingWhiz
 * TestingBot
+* LambdaTest
