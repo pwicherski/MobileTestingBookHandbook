@@ -3,9 +3,9 @@
 ## Most comprehensive positions:
 
 * ISTQB Foundation Level Mobile Application Testing [https://www.istqb.org/certification-path-root/mobile-application-testing.html](https://www.istqb.org/certification-path-root/mobile-application-testing.html) 
-* Hands-On Mobile App Testing \| Daniel Knott
+* Hands-On Mobile App Testing (2nd edition) \| Daniel Knott
 
-  [http://handsonmobileapptesting.com](http://handsonmobileapptesting.com)
+  [https://leanpub.com/Mobileapptesting](https://leanpub.com/Mobileapptesting)
 
 * Mobile Testing by Rex Black
 
