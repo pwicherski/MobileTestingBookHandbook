@@ -4,7 +4,7 @@
 
 * BrowserStack
 * Bitbar
-* Sauce labs
+* Sauce Labs
 * Perfecto Mobile
 * Kobiton
 * AWS Device farm
@@ -28,7 +28,7 @@
 
 * BrowserStack
 * Bitbar
-* Sauce labs
+* Sauce Labs
 * Perfecto Mobile
 * Kobiton
 * AWS Device farm
@@ -50,7 +50,7 @@
 ## Mobile & Desktop Web \(Manual/Automation\):
 
 * Bitbar
-* Sauce labs
+* Sauce Labs
 * Perfecto Mobile
 * Kobiton
 * Amazon AWS Device farm
