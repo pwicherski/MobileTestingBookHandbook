@@ -23,6 +23,7 @@
 * TestingWhiz
 * TestingBot
 * LambdaTest
+* Wetest
 
 ## Mobile Automation:
 
@@ -46,6 +47,7 @@
 * TestingWhiz
 * TestingBot
 * LambdaTest
+* Wetest
 
 ## Mobile & Desktop Web \(Manual/Automation\):
 
