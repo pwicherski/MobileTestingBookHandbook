@@ -7,6 +7,8 @@
 * Appbrain
   * [https://www.appbrain.com/stats/top-android-phones-tablets-by-country-overview](https://www.appbrain.com/stats/top-android-phones-tablets-by-country-overview)
   * [https://www.appbrain.com/stats/top-android-phones](https://www.appbrain.com/stats/top-android-phones) 
+* Aggregator airtable with different Mobile app related stats and reports (focused on marketing data)
+  * [https://airtable.com/appTaXTByvc43MFej/shrgugevJ0Y01JsXm/tblqx4tvLUscFBqWO](https://airtable.com/appTaXTByvc43MFej/shrgugevJ0Y01JsXm/tblqx4tvLUscFBqWO)
 * ReportLinker
   * [https://www.reportlinker.com/](https://www.reportlinker.com/) 
 * Mobile is spicy
