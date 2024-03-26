@@ -24,6 +24,8 @@
 * TestingBot
 * LambdaTest
 * Wetest
+* Mobitru
+* RobotQA
 
 ## Mobile Automation:
 
