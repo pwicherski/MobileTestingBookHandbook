@@ -18,6 +18,7 @@
 * Samsung Developers Lab
 * Huawei Digix Lab
 * HeadSpin Local
+* HeadSpin Cloud Test Lite 
 * SmartDust
 * AirLab 163
 * TestingWhiz
